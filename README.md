@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hii, I'm Tanuja 
+BCA Student 
+Learning Web Development 
+Currently learning HTML, CSS, Git, GitHub
+Build Beginner Frontend Projects
 
-<!--
-**dev-tanuja23/dev-tanuja23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+- Portfolio Website
+- Profile Card UI
+- Login Form UI
+- Product Cards UI
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals 
+To improve my coding skills, build real projects, and prepare for internships.
